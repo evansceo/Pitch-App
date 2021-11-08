@@ -12,3 +12,8 @@ class CommentModelTest(unittest.TestCase):
         Pitch.query.delete()
         User.query.delete()
 
+    def test_check_instance_variables(self):
+        self.assertEquals(self.new_comment.comment,'Test comment')
+        self.assertEquals(self.new_comment.user,self.user_Peris)
+        self.assertEquals(self.new_comment.pitch,self.new_pitch)
+
