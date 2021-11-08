@@ -12,3 +12,9 @@ class PitchModelTest(unittest.TestCase):
         Pitch.query.delete()
       
 
+    def test_check_instance_variables(self):
+        self.assertEquals(self.new_pitch.pitch_title,'Test')
+        self.assertEquals(self.new_pitch.pitch_content,'This is a test pitch')
+        self.assertEquals(self.new_pitch.category,"interview")
+        self.assertEquals(self.new_pitch.user,self.user_Peris)
+
