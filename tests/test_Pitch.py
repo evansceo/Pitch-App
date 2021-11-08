@@ -1,4 +1,4 @@
-from ..models import Comment,User,Pitch
+from models import Comment,User,Pitch
 from app import db
 import unittest
 

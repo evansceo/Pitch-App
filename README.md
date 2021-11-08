@@ -1,9 +1,9 @@
-# Best Pitches
+# Pitch-App
 
-#### Author: [Peris Oduol](https://github.com/PerisOduol618)
+#### Author: [Evans Oduor](https://github.com/evansceo)
 
 
-* Link to live site: https://pepepitch.herokuapp.com/
+* Link to live site:
 
 ## Description
 This is an application that allows users to use thaere one minute wisely. The users will submit their one minute pitches and other users will vote on them and leave comments to give their feedback on them.
@@ -38,7 +38,7 @@ The user would like to.... :
 
 
 ## Support and contact details
- Incase you come across errors, have questions, ideas ,concerns, or want to contribute to the application, feel free to reach me at :oduolpepe618@gmail.com
+ Incase you come across errors, have questions, ideas ,concerns, or want to contribute to the application, feel free to reach me at :evansville09@gmail.com
 
 ### License
 
